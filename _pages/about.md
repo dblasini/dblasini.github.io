@@ -1,13 +1,13 @@
 ---
+---
 layout: archive
 permalink: /
-title: "About Me"
+title: "Davis Blasini"
 author_profile: true
-header:
-  overlay_color: "#ffffff"
 redirect_from: 
   - /about/
   - /about.html
+---
 ---
 <br>
 <br>
