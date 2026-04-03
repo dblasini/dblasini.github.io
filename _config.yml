@@ -13,9 +13,9 @@ title                    : "Davis Blasini"
 title_separator          : "-"
 name                     : &name "Davis Blasini"
 description              : &description "Postdoctoral Researcher at the University of Arizona"
-url                      : "https://github.io" # Use 'url' for the web address
-repository               : "dblasini/dblasini.github.io" # Use 'repository' for the GitHub path
-baseurl                  : ""
+url: "https://github.io"
+baseurl: ""
+repository: "dblasini/dblasini.github.io"
 
 author:
   avatar           : "profile.png"
