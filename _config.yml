@@ -24,13 +24,13 @@ dblasini/dblasini.github.io  : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  Davis Blasini             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  dblasini1@arizona.edu            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
