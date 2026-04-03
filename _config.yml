@@ -21,14 +21,14 @@ author:
   avatar           : "profile.png"
   sidebar_name     : "Davis Blasini"
   bio              : "Postdoctoral Researcher at the University of Arizona"
-  location         : "Tucson, AZ"
+  location         : "Phoenix, AZ"
   employer         : "University of Arizona"
   email            : "dblasini1@arizona.edu" 
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=dP0ulBEAAAAJ&gmla=AH70aAV5aPJCGg-v40mPaiXSMQk9JRvKKhm_OX0BCC6j7WZ2h9s39oblzCwsenCnSmm7kH7ctm_9jSpRx-fzRx_3coO8kcahZSh7ICQw"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5005-9009" # Replace with your actual ORCID
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -53,7 +53,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/davis-blasini-351a2117"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
