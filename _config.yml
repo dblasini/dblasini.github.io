@@ -13,7 +13,7 @@ title                    : "Davis Blasini"
 title_separator          : "-"
 name                     : &name "Davis Blasini"
 description              : &description "Postdoctoral Researcher at the University of Arizona"
-url: "https://github.io"
+url                      : "https://dblasini.github.io"
 baseurl: ""
 repository: "dblasini/dblasini.github.io"
 
@@ -25,7 +25,7 @@ author:
   employer         : "University of Arizona"
   email            : "dblasini1@arizona.edu" 
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org" # Replace with your actual ORCID
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5005-9009" # Replace with your actual ORCID
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
