@@ -24,7 +24,7 @@ repository               : "dblasini/dblasini.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  Davis Blasini             : "Your Sidebar Name"
+  sidebar name     : "Davis Blasini"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
