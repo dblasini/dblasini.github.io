@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Davis Blasini"
 author_profile: true
