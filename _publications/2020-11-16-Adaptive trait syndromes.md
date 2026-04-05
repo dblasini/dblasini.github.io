@@ -1,7 +1,8 @@
 ---
 title: "Adaptive trait syndromes along multiple economic spectra define cold and warm adapted ecotypes in a widely distributed foundation tree species."
 collection: publications
-layout: archive # <--- ADD THIS LINE
+category: manuscripts 
+layout: single # <--- ADD THIS LINE
 date: 2020-11-16
 venue: 'Journal of Ecology.'
 paperurl: 'https://doi.org/10.1111/1365-2745.13557'
