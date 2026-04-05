@@ -1,5 +1,5 @@
 ---
-title: "Hydraulic traits that buffer deep-rooted plants from changes in hydrology and climate"
+title: "Hydraulic traits that buffer deep-rooted plants from changes in hydrology and climate."
 collection: publications
 category: manuscripts  
 layout: single
