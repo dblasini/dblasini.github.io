@@ -1,7 +1,7 @@
 ---
 title: "1. Hultine KR, Froend R, <b>Blasini D</b>, Bush SE, Karlinski M, Koepke DF (2019) Hydraulic 
 traits that buffer deep-rooted plants from changes in hydrology and climate. 
-Hydrological Processes 34(2), 209–222.https://doi.org/10.1002/hyp.13587"
+Hydrological Processes 34(2), 209–222.
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
