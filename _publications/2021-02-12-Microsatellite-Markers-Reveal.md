@@ -1,7 +1,8 @@
 ---
 title: "Microsatellite Markers Reveal Unprecedented High Frequencies of Hybridization among Typha Species in the Midwestern US."
 collection: publications
-layout: archive  # <--- ADD THIS LINE
+category: manuscripts  # <--- ADD THIS EXACT LINE
+layout: single
 date: 2021-02-12
 venue: 'Wetlands'
 paperurl: 'https://doi.org/10.1007/s13157-021-01429-2'
