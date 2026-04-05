@@ -26,20 +26,20 @@ author:
   email            : "dblasini1@arizona.edu" 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=dP0ulBEAAAAJ&gmla=AH70aAV5aPJCGg-v40mPaiXSMQk9JRvKKhm_OX0BCC6j7WZ2h9s39oblzCwsenCnSmm7kH7ctm_9jSpRx-fzRx_3coO8kcahZSh7ICQw"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5005-9009" # Replace with your actual ORCID
-  semantic         : # URL
-  ssrn             : # URL
+ # semantic         : # URL
+ # ssrn             : # URL
  # pubmed           : ""
   researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+ # scopus           : # URL
+ # zotero           : # URL
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+ # bitbucket        : # Username - Update with your username on the site
+ # codepen          : # Username
+ # dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
+ # kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
