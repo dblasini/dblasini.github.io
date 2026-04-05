@@ -1,7 +1,8 @@
 ---
 title: "UAV thermal image detects genetic trait differences among populations and genotypes of Fremont cottonwood (Populus fremontii, Salicaceae)."
 collection: publications
-layout: archive  # <--- ADD THIS LINE
+category: manuscripts  # <--- ADD THIS EXACT LINE
+layout: single
 date: 2021-11-18
 venue: 'Remote Sensing in Ecology and Conservation'
 paperurl: 'https://doi.org/10.1002/rse2.185'
