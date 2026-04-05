@@ -1,6 +1,7 @@
 ---
 title: "Adaptive capacity in the foundation tree species Populus fremontii: implications for resilience to climate change and non-native species invasion in the American Southwest"
 collection: publications
+layout: archive  # <--- ADD THIS LINE
 date: 2020-01-01
 venue: 'Conservation Physiology'
 paperurl: 'https://doi.org'
