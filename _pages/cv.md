@@ -36,11 +36,11 @@ Work experience
   * Conducted extensive eco-physiological, molecular, and field research on native and invasive riparian tree species, including Fremont cottonwood and Saltcedar, to understand their water use, stress responses, and genetic variation. My work included gas exchange measurements, chloroplast DNA extraction, and managing large-scale common garden experiments and biocontrol impact assessments across the Southwestern U.S
   * Supervisor: Dr. Kevin Hultine 
 
-  * Summers 2015 - 2020: Seasonal Field Research Assistant and Bilingual Extension Educators 
+* Summers 2015 - 2020: Seasonal Field Research Assistant and Bilingual Extension Educators
   * University of Arizona
-  * Collection and microbiological analysis (IDEXX Quanti-Tray® and Compartment Bag Test) of water samples in rivers, canals, and off-grid greywater recycled water facilities in Arizona and the Middle East. Teaching co-management of natural resources and food safety regarding the Food and Drug Administration (FDA) Food Safety Modernization Act (FSMA) and Produce Safety Rule (PSR) to Arizona growers, harvesters, and packers.  
+  * Collection and microbiological analysis (IDEXX Quanti-Tray® and Compartment Bag Test) of water samples in rivers, canals, and off-grid greywater recycled water facilities in Arizona and the Middle East. Teaching co-management of natural resources and food safety regarding the Food and Drug Administration (FDA) Food Safety Modernization Act (FSMA) and Produce Safety Rule (PSR) to Arizona growers, harvesters, and packers.
   * Supervisor: Dr. Channah Rock
- 
+    
 * Spring 2014 - Winter 2014: Invasive Plant Survey, Mapping, and Treatment Technician 
   * United States Forest Service/Great Basin Institute, Humboldt-Toiyabe National Forest, NV 
   * Botanical survey for state-listed noxious weeds. Inventory noxious weed populations present in wilderness and non-wilderness forest lands. Mapping invasive species populations and chemical treatments using portable data recorders, Juniper Archer Field PC. 
