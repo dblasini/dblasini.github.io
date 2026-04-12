@@ -1,7 +1,7 @@
 ---
 title: "Discovery – Why Sex? (BIO 112)"
 collection: teaching
-type: "online course"
+type: "Undergraduate online course"
 permalink: /teaching/2017-spring-teaching-2
 venue: "Arizona State University, School of Life Sciences"
 date: 2017-01-01
