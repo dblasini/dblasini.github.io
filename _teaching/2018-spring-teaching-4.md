@@ -1,5 +1,5 @@
 ---
-title: "o	Ecology (BIO 320)"
+title: "Ecology (BIO 320)"
 collection: teaching
 type: "Undergraduate online course"
 permalink: /teaching/2018-spring-teaching-2
