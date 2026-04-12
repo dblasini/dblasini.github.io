@@ -25,7 +25,7 @@ author:
   employer         : "University of Arizona"
   email            : "dblasini1@arizona.edu" 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=dP0ulBEAAAAJ&gmla=AH70aAV5aPJCGg-v40mPaiXSMQk9JRvKKhm_OX0BCC6j7WZ2h9s39oblzCwsenCnSmm7kH7ctm_9jSpRx-fzRx_3coO8kcahZSh7ICQw"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5005-9009" # Replace with your actual ORCID
+  orcid            : "https://orcid.org/0000-0001-5005-9009" # Replace with your actual ORCID
  # semantic         : # URL
  # ssrn             : # URL
  # pubmed           : ""
@@ -53,8 +53,8 @@ author:
   #keybase          : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/davis-blasini-351a2117"
-  #mastodon         : # URL
+  linkedin          : "https://www.linkedin.com/in/davis-blasini-351a2117/"
+  #mastodon         : # URL 
   #medium           : # URL
   #pinterest        : # Username
   #soundcloud       : # Username
