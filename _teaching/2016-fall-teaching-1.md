@@ -3,7 +3,7 @@ title: "Microbiology (MIC 206)"
 collection: teaching
 type: "Undergraduate laboratory course"
 permalink: /teaching/2016-fall-teaching-1
-venue: "Arizona State University, School of Life Sciences."
+venue: "Arizona State University, School of Life Sciences"
 date: 2016-08-08
 location: "Tempe, Arizona."
 ---
