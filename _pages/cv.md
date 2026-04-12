@@ -46,14 +46,14 @@ Work experience
   * Botanical survey for state-listed noxious weeds. Inventory noxious weed populations present in wilderness and non-wilderness forest lands. Mapping invasive species populations and chemical treatments using portable data recorders, Juniper Archer Field PC. 
   * Supervisor: Steven Williams
 
- * Spring 2013 - Fall 2013: Undergraduate Research Assistant
-  * Chicago Botanic Garden
-  * Assessment of Pollinators and flowering phenology of neighboring populations of native Echinacea angustifolia and introduced Echinacea pallida in a restored prairie of Western Minnesota to evaluate the likelihood of hybridization between these two species in nature.
-  * Supervisor: Dr. Stuart Wagenius
+* Spring 2013 - Fall 2013: Undergraduate Research Assistant  
+  * Chicago Botanic Garden 
+  * Assessment of Pollinators and flowering phenology of neighboring populations of native Echinacea angustifolia and introduced Echinacea pallida in a restored prairie of Western Minnesota to evaluate the likelihood of hybridization between these two species in nature. 
+  * Supervisor: Stuart Wagenius
 
-  * Spring 2011 - Summer 2013: Undergraduate Research Assistant
+* Spring 2011 - Winter 2013: Undergraduate Research Assistant 
   * Northeastern Illinois University
-  * Identification of cattail plant species and their hybrids using anatomical and molecular techniques.
+  * Identification of cattail plant species and their hybrids using anatomical and molecular techniques. 
   * Supervisor: Dr. Pamela Geddes
 
 Skills
@@ -67,11 +67,11 @@ Skills
 * Canvas and Blackboard (learning management platforms),
 * Smart Sparrow (adaptive learning platform),
 * Audacity and Audition (multi-track audio editor and recorder),
-* Camtasia and Premiere Pro (video editing and recorder),
+* Camtasia and Premiere Pro (video editing and recording),
 * Slido and Mentimeter (live polls, quizzes, and surveys platform for live and virtual meetings and events),
-* Firefly (Artifcial intelligence image generator),
+* Firefly (Artificial intelligence image generator),
 * Slack,
-* Microsoft Excel,Word, and PowerPoint
+* Microsoft Excel, Word, and PowerPoint
 
 * Field Skills:  
   * Proficiency in entry and management of data/Experimental design 
