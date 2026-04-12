@@ -59,19 +59,19 @@ Work experience
 Skills
 ======
 * Computer skills:
-* Statistical Software R (Statistics),
-* Image J (Bio-imaging),
-* Gene Marker (Genotype Analysis),
-* QGIS (Geographic Information System),
-* GIMP (image manipulation program),
-* Canvas and Blackboard (learning management platforms),
-* Smart Sparrow (adaptive learning platform),
-* Audacity and Audition (multi-track audio editor and recorder),
-* Camtasia and Premiere Pro (video editing and recording),
-* Slido and Mentimeter (live polls, quizzes, and surveys platform for live and virtual meetings and events),
-* Firefly (Artificial intelligence image generator),
-* Slack,
-* Microsoft Excel, Word, and PowerPoint
+  * Statistical Software R (Statistics)
+  * Image J (Bio-imaging)
+  * Gene Marker (Genotype Analysis)
+  * QGIS (Geographic Information System)
+  * GIMP (image manipulation program)
+  * Canvas and Blackboard (learning management platforms)
+  * Smart Sparrow (adaptive learning platform)
+  * Audacity and Audition (multi-track audio editor and recorder)
+  * Camtasia and Premiere Pro (video editing and recording)
+  * Slido and Mentimeter (live polls, quizzes, and surveys platform for live and virtual meetings and events)
+  * Firefly (Artificial intelligence image generator)
+  * Slack
+  * Microsoft Excel, Word, and PowerPoint
 
 * Field Skills:  
   * Proficiency in entry and management of data/Experimental design 
