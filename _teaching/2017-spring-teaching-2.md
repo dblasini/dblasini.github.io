@@ -8,13 +8,4 @@ date: 2017-01-01
 location: "Tempe, Arizona"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teach evolutionary concepts for non-biology major students: The importance of natural and sexual selection in biology; compare asexual and sexual reproduction in population dynamics; different reproductive patterns found in nature; and the costs and benefits of sexual reproduction. 
