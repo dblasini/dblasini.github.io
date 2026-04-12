@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate laboratory course"
 permalink: /teaching/2018-fall-teaching-1
 venue: "Arizona State University, School of Life Sciences"
-date: 2018-08-08
+date: (Fall) 2018-08-08
 location: "Tempe, Arizona."
 ---
 
